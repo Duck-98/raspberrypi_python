@@ -9,3 +9,5 @@
 <img src ="./회로도.PNG">
 
 ## 구현 결과
+
+<img width ="80%" src="https://user-images.githubusercontent.com/72850354/140762833-4a1102f0-6a63-430b-b5f6-ebf7a5047d10.gif"/>
